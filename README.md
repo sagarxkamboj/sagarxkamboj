@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **HackCapsule Project**
 - 🌱 I’m learning **MERN Stack & AI tools**
 - 💬 Ask me about **Python, Node.js, and Web Development**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **Sagarkamboj9765@gmail.com**
 - ⚡ Fun fact: *I debug more than I sleep*
 
 ---
