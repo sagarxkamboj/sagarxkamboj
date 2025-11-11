@@ -41,9 +41,9 @@
 
 ### 💬 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/sagar"><img src="https://img.shields.io/badge/-Sagar-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/sagar"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sagar-x-kamboj"><img src="https://img.shields.io/badge/-Sagar-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:Sagarkamboj9765@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/sagarxkamboj"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
 ---
