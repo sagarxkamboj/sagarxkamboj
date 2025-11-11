@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagar&label=Profile%20views&color=0e75b6&style=flat" alt="sagar" />
+  <img src="https://komarev.com/ghpvc/?username=sagarxkamboj&label=Profile%20views&color=0e75b6&style=flat" alt="sagar" />
 </p>
 
 ---
@@ -26,15 +26,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarxkamboj&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarxkamboj&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagar&theme=dracula&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarxkamboj&theme=dracula&margin-w=15&margin-h=15" alt="trophies" />
 </p>
 
 ---
