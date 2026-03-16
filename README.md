@@ -26,7 +26,7 @@
 💻 **Full-Stack Developer | AI & ML Enthusiast**  
 ⚙️ Passionate about building **scalable, intelligent & user-centric applications**
 
-- 🔭 Working on **HackCapsule Project**
+- 🔭 Working on **Talkify Project**
 - 🌱 Learning **MERN Stack, AI Tools & Advanced ML**
 - 💬 Ask me about **Python, Node.js, Web Dev & Databases**
 - ⚡ Fun fact: *I debug more than I sleep 😄*
